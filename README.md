@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Perl when iterating through arrays using a foreach loop and array indices. The `bug.pl` file contains the erroneous code, while `bugSolution.pl` provides the corrected version.
